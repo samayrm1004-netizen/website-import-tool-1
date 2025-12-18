@@ -14,3 +14,6 @@ All notable changes and updates are documented here.
 
 ## [2025-12-18 13:37] - feat(filter): support regex-based URL filtering rules for page crawl
 - Allowed users to define ignore patterns before kicking off batch imports.
+
+## [2025-12-18 14:11] - fix(hydration): resolve SSR mismatch on initial page theme render
+- Ensured theme provider initializes state only after mounting.
