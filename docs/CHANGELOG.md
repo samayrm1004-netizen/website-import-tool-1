@@ -11,3 +11,6 @@ All notable changes and updates are documented here.
 
 ## [2025-12-18 10:15] - feat(crawler): implement link extractor with depth-level control
 - Added recursive link scraper with configurable maximum depth limits.
+
+## [2025-12-18 13:37] - feat(filter): support regex-based URL filtering rules for page crawl
+- Allowed users to define ignore patterns before kicking off batch imports.
