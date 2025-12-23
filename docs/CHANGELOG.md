@@ -23,3 +23,6 @@ All notable changes and updates are documented here.
 
 ## [2025-12-23 12:08] - perf(dom): optimize tree traversal using depth-first search index
 - Reduced AST construction time by 34% on pages with over 5,000 DOM nodes.
+
+## [2025-12-23 19:52] - fix(parser): preserve relative image paths during asset extraction
+- Corrected URL resolution against base href tag when present.
