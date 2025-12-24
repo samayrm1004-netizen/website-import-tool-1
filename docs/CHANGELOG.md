@@ -32,3 +32,6 @@ All notable changes and updates are documented here.
 
 ## [2025-12-24 18:51] - feat(ui): add visual progress bar for active batch downloads
 - Connected WebSockets event stream to animated status indicator.
+
+## [2025-12-24 22:48] - feat(export): add JSON and Markdown export options for scraped content
+- Allowed users to download structured schemas alongside raw HTML.
