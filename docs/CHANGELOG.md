@@ -26,3 +26,6 @@ All notable changes and updates are documented here.
 
 ## [2025-12-23 19:52] - fix(parser): preserve relative image paths during asset extraction
 - Corrected URL resolution against base href tag when present.
+
+## [2025-12-24 13:01] - docs(readme): add troubleshooting section for CORS preflight errors
+- Documented local proxy fallback options for cross-origin scraping.
