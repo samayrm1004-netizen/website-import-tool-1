@@ -29,3 +29,6 @@ All notable changes and updates are documented here.
 
 ## [2025-12-24 13:01] - docs(readme): add troubleshooting section for CORS preflight errors
 - Documented local proxy fallback options for cross-origin scraping.
+
+## [2025-12-24 18:51] - feat(ui): add visual progress bar for active batch downloads
+- Connected WebSockets event stream to animated status indicator.
