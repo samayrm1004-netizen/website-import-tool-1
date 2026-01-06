@@ -35,3 +35,6 @@ All notable changes and updates are documented here.
 
 ## [2025-12-24 22:48] - feat(export): add JSON and Markdown export options for scraped content
 - Allowed users to download structured schemas alongside raw HTML.
+
+## [2026-01-06 11:34] - style(theme): polish dark mode contrasts on import progress card
+- Adjusted border opacity and accent highlights for better readability.
