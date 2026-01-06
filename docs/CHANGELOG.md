@@ -41,3 +41,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-06 18:49] - perf(memory): stream large response bodies directly to disk cache
 - Avoided buffering full responses in memory to prevent allocation spikes.
+
+## [2026-01-06 22:03] - fix(fetcher): handle TLS handshake timeout gracefully on slow remote hosts
+- Added 15s retry timeout and specific connection error categorization.
