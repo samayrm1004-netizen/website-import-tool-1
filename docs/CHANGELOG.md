@@ -38,3 +38,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-06 11:34] - style(theme): polish dark mode contrasts on import progress card
 - Adjusted border opacity and accent highlights for better readability.
+
+## [2026-01-06 18:49] - perf(memory): stream large response bodies directly to disk cache
+- Avoided buffering full responses in memory to prevent allocation spikes.
