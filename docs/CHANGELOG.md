@@ -44,3 +44,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-06 22:03] - fix(fetcher): handle TLS handshake timeout gracefully on slow remote hosts
 - Added 15s retry timeout and specific connection error categorization.
+
+## [2026-01-08 17:30] - refactor(ui): extract reusable modal component for URL input and validation
+- Separated dialog logic from page container into modular component.
