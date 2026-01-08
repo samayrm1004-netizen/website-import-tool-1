@@ -47,3 +47,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-08 17:30] - refactor(ui): extract reusable modal component for URL input and validation
 - Separated dialog logic from page container into modular component.
+
+## [2026-01-08 20:33] - feat(filter): support regex-based URL filtering rules for page crawl
+- Allowed users to define ignore patterns before kicking off batch imports.
