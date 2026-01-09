@@ -50,3 +50,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-08 20:33] - feat(filter): support regex-based URL filtering rules for page crawl
 - Allowed users to define ignore patterns before kicking off batch imports.
+
+## [2026-01-09 12:53] - test(parser): add unit tests for malformed HTML structure sanitization
+- Covered unclosed div tags and stray script injection cases.
