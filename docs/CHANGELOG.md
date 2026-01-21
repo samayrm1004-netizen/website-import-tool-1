@@ -53,3 +53,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-09 12:53] - test(parser): add unit tests for malformed HTML structure sanitization
 - Covered unclosed div tags and stray script injection cases.
+
+## [2026-01-21 18:27] - docs(api): document endpoint payload schemas for import webhook
+- Included sample request and response JSON payloads in docs.
