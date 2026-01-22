@@ -62,3 +62,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-22 13:55] - fix(parser): preserve relative image paths during asset extraction
 - Corrected URL resolution against base href tag when present.
+
+## [2026-01-22 19:20] - fix(fetcher): handle TLS handshake timeout gracefully on slow remote hosts
+- Added 15s retry timeout and specific connection error categorization.
