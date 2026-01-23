@@ -65,3 +65,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-22 19:20] - fix(fetcher): handle TLS handshake timeout gracefully on slow remote hosts
 - Added 15s retry timeout and specific connection error categorization.
+
+## [2026-01-23 11:41] - fix(api): prevent duplicate import job dispatch on rapid button clicks
+- Added client-side debouncing and optimistic disabled state.
