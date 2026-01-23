@@ -68,3 +68,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-23 11:41] - fix(api): prevent duplicate import job dispatch on rapid button clicks
 - Added client-side debouncing and optimistic disabled state.
+
+## [2026-01-23 12:38] - docs(readme): add troubleshooting section for CORS preflight errors
+- Documented local proxy fallback options for cross-origin scraping.
