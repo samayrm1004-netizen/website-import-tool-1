@@ -74,3 +74,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-26 13:35] - feat(preview): render live sanitized iframe preview of imported site
 - Implemented sandboxed iframe with restricted script permissions.
+
+## [2026-01-26 18:37] - style(theme): polish dark mode contrasts on import progress card
+- Adjusted border opacity and accent highlights for better readability.
