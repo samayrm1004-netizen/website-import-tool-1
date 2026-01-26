@@ -71,3 +71,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-23 12:38] - docs(readme): add troubleshooting section for CORS preflight errors
 - Documented local proxy fallback options for cross-origin scraping.
+
+## [2026-01-26 13:35] - feat(preview): render live sanitized iframe preview of imported site
+- Implemented sandboxed iframe with restricted script permissions.
