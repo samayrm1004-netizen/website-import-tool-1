@@ -77,3 +77,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-26 18:37] - style(theme): polish dark mode contrasts on import progress card
 - Adjusted border opacity and accent highlights for better readability.
+
+## [2026-01-27 11:41] - refactor(ui): extract reusable modal component for URL input and validation
+- Separated dialog logic from page container into modular component.
