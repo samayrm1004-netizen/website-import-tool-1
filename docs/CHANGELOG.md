@@ -80,3 +80,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-27 11:41] - refactor(ui): extract reusable modal component for URL input and validation
 - Separated dialog logic from page container into modular component.
+
+## [2026-01-27 20:40] - feat(crawler): implement link extractor with depth-level control
+- Added recursive link scraper with configurable maximum depth limits.
