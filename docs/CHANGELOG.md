@@ -83,3 +83,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-27 20:40] - feat(crawler): implement link extractor with depth-level control
 - Added recursive link scraper with configurable maximum depth limits.
+
+## [2026-01-29 14:15] - perf(importer): add batching queue to prevent memory spikes on large sitemaps
+- Chunked concurrent URL fetching to max 4 parallel streams.
