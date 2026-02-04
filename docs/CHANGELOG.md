@@ -86,3 +86,6 @@ All notable changes and updates are documented here.
 
 ## [2026-01-29 14:15] - perf(importer): add batching queue to prevent memory spikes on large sitemaps
 - Chunked concurrent URL fetching to max 4 parallel streams.
+
+## [2026-02-04 18:46] - feat(parser): add support for selective node exclusion during site extraction
+- Enhanced DOM traversal to skip elements marked with data-skip-import attributes.
