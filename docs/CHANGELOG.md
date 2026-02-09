@@ -89,3 +89,6 @@ All notable changes and updates are documented here.
 
 ## [2026-02-04 18:46] - feat(parser): add support for selective node exclusion during site extraction
 - Enhanced DOM traversal to skip elements marked with data-skip-import attributes.
+
+## [2026-02-09 11:49] - feat(export): add JSON and Markdown export options for scraped content
+- Allowed users to download structured schemas alongside raw HTML.
