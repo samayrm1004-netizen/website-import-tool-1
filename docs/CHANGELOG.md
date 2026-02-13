@@ -92,3 +92,6 @@ All notable changes and updates are documented here.
 
 ## [2026-02-09 11:49] - feat(export): add JSON and Markdown export options for scraped content
 - Allowed users to download structured schemas alongside raw HTML.
+
+## [2026-02-13 12:33] - feat(ui): add visual progress bar for active batch downloads
+- Connected WebSockets event stream to animated status indicator.
