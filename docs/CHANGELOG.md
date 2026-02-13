@@ -98,3 +98,6 @@ All notable changes and updates are documented here.
 
 ## [2026-02-13 15:43] - refactor(layout): simplify navigation sidebar layout on tablet views
 - Collapsed secondary links into slide-out menu drawer.
+
+## [2026-02-13 16:47] - docs(readme): add troubleshooting section for CORS preflight errors
+- Documented local proxy fallback options for cross-origin scraping.
