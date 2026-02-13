@@ -101,3 +101,6 @@ All notable changes and updates are documented here.
 
 ## [2026-02-13 16:47] - docs(readme): add troubleshooting section for CORS preflight errors
 - Documented local proxy fallback options for cross-origin scraping.
+
+## [2026-02-13 19:32] - feat(parser): add support for selective node exclusion during site extraction
+- Enhanced DOM traversal to skip elements marked with data-skip-import attributes.
