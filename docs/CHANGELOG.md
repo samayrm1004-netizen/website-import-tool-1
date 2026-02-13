@@ -95,3 +95,6 @@ All notable changes and updates are documented here.
 
 ## [2026-02-13 12:33] - feat(ui): add visual progress bar for active batch downloads
 - Connected WebSockets event stream to animated status indicator.
+
+## [2026-02-13 15:43] - refactor(layout): simplify navigation sidebar layout on tablet views
+- Collapsed secondary links into slide-out menu drawer.
