@@ -104,3 +104,6 @@ All notable changes and updates are documented here.
 
 ## [2026-02-13 19:32] - feat(parser): add support for selective node exclusion during site extraction
 - Enhanced DOM traversal to skip elements marked with data-skip-import attributes.
+
+## [2026-02-27 18:28] - test(parser): add unit tests for malformed HTML structure sanitization
+- Covered unclosed div tags and stray script injection cases.
