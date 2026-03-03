@@ -107,3 +107,6 @@ All notable changes and updates are documented here.
 
 ## [2026-02-27 18:28] - test(parser): add unit tests for malformed HTML structure sanitization
 - Covered unclosed div tags and stray script injection cases.
+
+## [2026-03-03 14:51] - refactor(layout): simplify navigation sidebar layout on tablet views
+- Collapsed secondary links into slide-out menu drawer.
