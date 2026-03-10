@@ -116,3 +116,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-10 13:48] - feat(export): add JSON and Markdown export options for scraped content
 - Allowed users to download structured schemas alongside raw HTML.
+
+## [2026-03-10 22:22] - feat(crawler): implement link extractor with depth-level control
+- Added recursive link scraper with configurable maximum depth limits.
