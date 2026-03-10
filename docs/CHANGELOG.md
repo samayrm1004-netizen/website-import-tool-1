@@ -113,3 +113,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-05 22:25] - docs(readme): add troubleshooting section for CORS preflight errors
 - Documented local proxy fallback options for cross-origin scraping.
+
+## [2026-03-10 13:48] - feat(export): add JSON and Markdown export options for scraped content
+- Allowed users to download structured schemas alongside raw HTML.
