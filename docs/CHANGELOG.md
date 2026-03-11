@@ -119,3 +119,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-10 22:22] - feat(crawler): implement link extractor with depth-level control
 - Added recursive link scraper with configurable maximum depth limits.
+
+## [2026-03-11 10:06] - refactor(store): migrate import status state to atomic zustand slice
+- Eliminated redundant root re-renders when progress updates arrive.
