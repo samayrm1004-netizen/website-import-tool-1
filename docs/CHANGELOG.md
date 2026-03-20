@@ -122,3 +122,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-11 10:06] - refactor(store): migrate import status state to atomic zustand slice
 - Eliminated redundant root re-renders when progress updates arrive.
+
+## [2026-03-20 14:35] - docs(api): document endpoint payload schemas for import webhook
+- Included sample request and response JSON payloads in docs.
