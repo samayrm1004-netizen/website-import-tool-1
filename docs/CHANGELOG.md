@@ -128,3 +128,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-23 11:10] - docs(api): document endpoint payload schemas for import webhook
 - Included sample request and response JSON payloads in docs.
+
+## [2026-03-26 19:14] - feat(ui): add visual progress bar for active batch downloads
+- Connected WebSockets event stream to animated status indicator.
