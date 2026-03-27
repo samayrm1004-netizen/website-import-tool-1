@@ -134,3 +134,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-27 15:14] - fix(api): prevent duplicate import job dispatch on rapid button clicks
 - Added client-side debouncing and optimistic disabled state.
+
+## [2026-03-27 22:33] - perf(importer): add batching queue to prevent memory spikes on large sitemaps
+- Chunked concurrent URL fetching to max 4 parallel streams.
