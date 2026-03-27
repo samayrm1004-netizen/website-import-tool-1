@@ -131,3 +131,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-26 19:14] - feat(ui): add visual progress bar for active batch downloads
 - Connected WebSockets event stream to animated status indicator.
+
+## [2026-03-27 15:14] - fix(api): prevent duplicate import job dispatch on rapid button clicks
+- Added client-side debouncing and optimistic disabled state.
