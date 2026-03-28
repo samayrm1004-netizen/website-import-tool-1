@@ -137,3 +137,6 @@ All notable changes and updates are documented here.
 
 ## [2026-03-27 22:33] - perf(importer): add batching queue to prevent memory spikes on large sitemaps
 - Chunked concurrent URL fetching to max 4 parallel streams.
+
+## [2026-03-28 14:17] - style(theme): polish dark mode contrasts on import progress card
+- Adjusted border opacity and accent highlights for better readability.
