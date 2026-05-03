@@ -146,3 +146,6 @@ All notable changes and updates are documented here.
 
 ## [2026-04-06 18:12] - style(theme): polish dark mode contrasts on import progress card
 - Adjusted border opacity and accent highlights for better readability.
+
+## [2026-05-03 12:36] - chore(deps): update dependencies to latest patch versions
+- Bumped sub-dependencies to patch minor security advisories.
