@@ -155,3 +155,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-08 10:21] - feat(preview): render live sanitized iframe preview of imported site
 - Implemented sandboxed iframe with restricted script permissions.
+
+## [2026-05-08 16:52] - feat(ui): add visual progress bar for active batch downloads
+- Connected WebSockets event stream to animated status indicator.
