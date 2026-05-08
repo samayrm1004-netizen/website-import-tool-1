@@ -152,3 +152,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-03 22:01] - chore(deps): update dependencies to latest patch versions
 - Bumped sub-dependencies to patch minor security advisories.
+
+## [2026-05-08 10:21] - feat(preview): render live sanitized iframe preview of imported site
+- Implemented sandboxed iframe with restricted script permissions.
