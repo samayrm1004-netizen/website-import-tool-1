@@ -164,3 +164,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-08 22:00] - feat(preview): render live sanitized iframe preview of imported site
 - Implemented sandboxed iframe with restricted script permissions.
+
+## [2026-05-08 22:30] - feat(filter): support regex-based URL filtering rules for page crawl
+- Allowed users to define ignore patterns before kicking off batch imports.
