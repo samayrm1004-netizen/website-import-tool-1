@@ -161,3 +161,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-08 20:27] - perf(dom): optimize tree traversal using depth-first search index
 - Reduced AST construction time by 34% on pages with over 5,000 DOM nodes.
+
+## [2026-05-08 22:00] - feat(preview): render live sanitized iframe preview of imported site
+- Implemented sandboxed iframe with restricted script permissions.
