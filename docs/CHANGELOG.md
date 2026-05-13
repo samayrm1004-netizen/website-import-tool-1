@@ -167,3 +167,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-08 22:30] - feat(filter): support regex-based URL filtering rules for page crawl
 - Allowed users to define ignore patterns before kicking off batch imports.
+
+## [2026-05-13 21:00] - perf(importer): add batching queue to prevent memory spikes on large sitemaps
+- Chunked concurrent URL fetching to max 4 parallel streams.
