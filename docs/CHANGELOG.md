@@ -173,3 +173,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-19 11:33] - fix(parser): preserve relative image paths during asset extraction
 - Corrected URL resolution against base href tag when present.
+
+## [2026-05-19 19:13] - fix(hydration): resolve SSR mismatch on initial page theme render
+- Ensured theme provider initializes state only after mounting.
