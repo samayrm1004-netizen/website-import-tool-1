@@ -170,3 +170,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-13 21:00] - perf(importer): add batching queue to prevent memory spikes on large sitemaps
 - Chunked concurrent URL fetching to max 4 parallel streams.
+
+## [2026-05-19 11:33] - fix(parser): preserve relative image paths during asset extraction
+- Corrected URL resolution against base href tag when present.
