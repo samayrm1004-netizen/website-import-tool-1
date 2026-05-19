@@ -176,3 +176,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-19 19:13] - fix(hydration): resolve SSR mismatch on initial page theme render
 - Ensured theme provider initializes state only after mounting.
+
+## [2026-05-19 19:43] - perf(cache): implement localStorage caching for recent import history
+- Avoids re-querying backend for immutable completed import logs.
