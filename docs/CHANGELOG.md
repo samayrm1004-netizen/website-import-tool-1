@@ -179,3 +179,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-19 19:43] - perf(cache): implement localStorage caching for recent import history
 - Avoids re-querying backend for immutable completed import logs.
+
+## [2026-05-19 20:35] - feat(parser): add support for selective node exclusion during site extraction
+- Enhanced DOM traversal to skip elements marked with data-skip-import attributes.
