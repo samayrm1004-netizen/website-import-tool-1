@@ -185,3 +185,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-19 21:45] - feat(export): add JSON and Markdown export options for scraped content
 - Allowed users to download structured schemas alongside raw HTML.
+
+## [2026-05-31 17:12] - perf(memory): stream large response bodies directly to disk cache
+- Avoided buffering full responses in memory to prevent allocation spikes.
