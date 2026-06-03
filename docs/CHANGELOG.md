@@ -188,3 +188,6 @@ All notable changes and updates are documented here.
 
 ## [2026-05-31 17:12] - perf(memory): stream large response bodies directly to disk cache
 - Avoided buffering full responses in memory to prevent allocation spikes.
+
+## [2026-06-03 18:00] - test(parser): add unit tests for malformed HTML structure sanitization
+- Covered unclosed div tags and stray script injection cases.
