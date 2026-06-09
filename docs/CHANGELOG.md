@@ -191,3 +191,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-03 18:00] - test(parser): add unit tests for malformed HTML structure sanitization
 - Covered unclosed div tags and stray script injection cases.
+
+## [2026-06-09 17:55] - fix(hydration): resolve SSR mismatch on initial page theme render
+- Ensured theme provider initializes state only after mounting.
