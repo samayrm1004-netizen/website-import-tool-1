@@ -194,3 +194,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-09 17:55] - fix(hydration): resolve SSR mismatch on initial page theme render
 - Ensured theme provider initializes state only after mounting.
+
+## [2026-06-09 21:44] - feat(ui): add visual progress bar for active batch downloads
+- Connected WebSockets event stream to animated status indicator.
