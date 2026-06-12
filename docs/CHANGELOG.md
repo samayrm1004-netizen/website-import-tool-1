@@ -197,3 +197,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-09 21:44] - feat(ui): add visual progress bar for active batch downloads
 - Connected WebSockets event stream to animated status indicator.
+
+## [2026-06-12 22:16] - fix(parser): preserve relative image paths during asset extraction
+- Corrected URL resolution against base href tag when present.
