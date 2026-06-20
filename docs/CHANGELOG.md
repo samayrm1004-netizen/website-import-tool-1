@@ -200,3 +200,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-12 22:16] - fix(parser): preserve relative image paths during asset extraction
 - Corrected URL resolution against base href tag when present.
+
+## [2026-06-20 16:42] - perf(memory): stream large response bodies directly to disk cache
+- Avoided buffering full responses in memory to prevent allocation spikes.
