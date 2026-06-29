@@ -209,3 +209,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-29 17:38] - test(parser): add unit tests for malformed HTML structure sanitization
 - Covered unclosed div tags and stray script injection cases.
+
+## [2026-06-29 22:32] - fix(api): prevent duplicate import job dispatch on rapid button clicks
+- Added client-side debouncing and optimistic disabled state.
