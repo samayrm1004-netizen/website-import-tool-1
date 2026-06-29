@@ -203,3 +203,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-20 16:42] - perf(memory): stream large response bodies directly to disk cache
 - Avoided buffering full responses in memory to prevent allocation spikes.
+
+## [2026-06-29 14:00] - docs(readme): add troubleshooting section for CORS preflight errors
+- Documented local proxy fallback options for cross-origin scraping.
