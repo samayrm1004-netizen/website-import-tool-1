@@ -206,3 +206,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-29 14:00] - docs(readme): add troubleshooting section for CORS preflight errors
 - Documented local proxy fallback options for cross-origin scraping.
+
+## [2026-06-29 17:38] - test(parser): add unit tests for malformed HTML structure sanitization
+- Covered unclosed div tags and stray script injection cases.
