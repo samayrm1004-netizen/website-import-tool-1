@@ -212,3 +212,6 @@ All notable changes and updates are documented here.
 
 ## [2026-06-29 22:32] - fix(api): prevent duplicate import job dispatch on rapid button clicks
 - Added client-side debouncing and optimistic disabled state.
+
+## [2026-07-10 16:49] - style(theme): polish dark mode contrasts on import progress card
+- Adjusted border opacity and accent highlights for better readability.
