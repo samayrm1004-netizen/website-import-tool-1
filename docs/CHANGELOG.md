@@ -215,3 +215,6 @@ All notable changes and updates are documented here.
 
 ## [2026-07-10 16:49] - style(theme): polish dark mode contrasts on import progress card
 - Adjusted border opacity and accent highlights for better readability.
+
+## [2026-07-14 15:08] - feat(crawler): implement link extractor with depth-level control
+- Added recursive link scraper with configurable maximum depth limits.
