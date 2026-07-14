@@ -218,3 +218,6 @@ All notable changes and updates are documented here.
 
 ## [2026-07-14 15:08] - feat(crawler): implement link extractor with depth-level control
 - Added recursive link scraper with configurable maximum depth limits.
+
+## [2026-07-14 21:37] - chore(deps): update dependencies to latest patch versions
+- Bumped sub-dependencies to patch minor security advisories.
