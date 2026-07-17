@@ -221,3 +221,6 @@ All notable changes and updates are documented here.
 
 ## [2026-07-14 21:37] - chore(deps): update dependencies to latest patch versions
 - Bumped sub-dependencies to patch minor security advisories.
+
+## [2026-07-17 10:23] - perf(dom): optimize tree traversal using depth-first search index
+- Reduced AST construction time by 34% on pages with over 5,000 DOM nodes.
