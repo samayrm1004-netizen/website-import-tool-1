@@ -236,3 +236,6 @@ All notable changes and updates are documented here.
 
 ## [2026-07-20 15:59] - refactor(layout): simplify navigation sidebar layout on tablet views
 - Collapsed secondary links into slide-out menu drawer.
+
+## [2026-07-27 21:30] - feat(export): add JSON and Markdown export options for scraped content
+- Allowed users to download structured schemas alongside raw HTML.
