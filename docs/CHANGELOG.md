@@ -239,3 +239,6 @@ All notable changes and updates are documented here.
 
 ## [2026-07-27 21:30] - feat(export): add JSON and Markdown export options for scraped content
 - Allowed users to download structured schemas alongside raw HTML.
+
+## [2026-08-03 19:14] - refactor(utils): consolidate URL normalization and sanitization helpers
+- Merged duplicate protocol prepend logic into single pure function.
