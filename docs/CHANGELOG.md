@@ -242,3 +242,6 @@ All notable changes and updates are documented here.
 
 ## [2026-08-03 19:14] - refactor(utils): consolidate URL normalization and sanitization helpers
 - Merged duplicate protocol prepend logic into single pure function.
+
+## [2026-08-07 15:17] - refactor(layout): simplify navigation sidebar layout on tablet views
+- Collapsed secondary links into slide-out menu drawer.
