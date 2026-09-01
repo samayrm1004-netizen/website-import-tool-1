@@ -245,3 +245,6 @@ All notable changes and updates are documented here.
 
 ## [2026-08-07 15:17] - refactor(layout): simplify navigation sidebar layout on tablet views
 - Collapsed secondary links into slide-out menu drawer.
+
+## [2026-09-01 19:52] - feat(assets): support automatic SVG icon inline extraction
+- Replaced external SVG image links with optimized inline markup.
