@@ -251,3 +251,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-01 21:45] - feat(assets): support automatic SVG icon inline extraction
 - Replaced external SVG image links with optimized inline markup.
+
+## [2026-09-03 12:00] - chore(deps): update dependencies to latest patch versions
+- Bumped sub-dependencies to patch minor security advisories.
