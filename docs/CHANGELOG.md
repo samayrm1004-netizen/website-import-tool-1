@@ -254,3 +254,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-03 12:00] - chore(deps): update dependencies to latest patch versions
 - Bumped sub-dependencies to patch minor security advisories.
+
+## [2026-09-04 10:21] - perf(cache): implement localStorage caching for recent import history
+- Avoids re-querying backend for immutable completed import logs.
