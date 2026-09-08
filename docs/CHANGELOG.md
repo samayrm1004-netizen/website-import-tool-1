@@ -257,3 +257,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-04 10:21] - perf(cache): implement localStorage caching for recent import history
 - Avoids re-querying backend for immutable completed import logs.
+
+## [2026-09-08 13:16] - style(theme): polish dark mode contrasts on import progress card
+- Adjusted border opacity and accent highlights for better readability.
