@@ -260,3 +260,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-08 13:16] - style(theme): polish dark mode contrasts on import progress card
 - Adjusted border opacity and accent highlights for better readability.
+
+## [2026-09-13 11:45] - style(theme): polish dark mode contrasts on import progress card
+- Adjusted border opacity and accent highlights for better readability.
