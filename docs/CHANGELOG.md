@@ -269,3 +269,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-17 18:46] - refactor(ui): extract reusable modal component for URL input and validation
 - Separated dialog logic from page container into modular component.
+
+## [2026-09-17 22:39] - feat(ui): add visual progress bar for active batch downloads
+- Connected WebSockets event stream to animated status indicator.
