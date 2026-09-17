@@ -266,3 +266,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-17 15:23] - chore(deps): update dependencies to latest patch versions
 - Bumped sub-dependencies to patch minor security advisories.
+
+## [2026-09-17 18:46] - refactor(ui): extract reusable modal component for URL input and validation
+- Separated dialog logic from page container into modular component.
