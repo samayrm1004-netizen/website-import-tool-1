@@ -275,3 +275,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-28 10:54] - feat(filter): support regex-based URL filtering rules for page crawl
 - Allowed users to define ignore patterns before kicking off batch imports.
+
+## [2026-09-28 19:21] - fix(parser): preserve relative image paths during asset extraction
+- Corrected URL resolution against base href tag when present.
