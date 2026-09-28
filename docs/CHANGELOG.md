@@ -272,3 +272,6 @@ All notable changes and updates are documented here.
 
 ## [2026-09-17 22:39] - feat(ui): add visual progress bar for active batch downloads
 - Connected WebSockets event stream to animated status indicator.
+
+## [2026-09-28 10:54] - feat(filter): support regex-based URL filtering rules for page crawl
+- Allowed users to define ignore patterns before kicking off batch imports.
